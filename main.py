@@ -22,7 +22,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body, at
         server.send_message(msg)
 
 df = pd.read_csv('info.csv')  
-base_image_path = "Certificate Final v2.png"
+base_image_path = "Certificate v3.png"
 base_image = cv2.imread(base_image_path)
 
 output_folder = "output"
@@ -46,8 +46,8 @@ for index, row in df.iterrows():
     subject = 'Certificate Attached'
     body = f'Hello {name},\n\nPlease find your certificate attached.'
 
-    send_email(sender_email='srujanrai17@gmail.com',
-               sender_password='yufs dyox opvs bezv',
+    send_email(sender_email='yogaparticipationcertificate@gmail.com',
+               sender_password='gvnq hnio yfhv rrkm',
                recipient_email=email,
                subject=subject,
                body=body,
