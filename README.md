@@ -48,3 +48,4 @@ This Python script generates personalized certificates with names and sends them
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+srujan rai
