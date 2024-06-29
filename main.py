@@ -21,7 +21,7 @@ def send_email(sender_email, sender_password, recipient_email, subject, body, at
         server.login(sender_email, sender_password)
         server.send_message(msg)
 
-df = pd.read_csv('INFO-MAIN.csv')  
+df = pd.read_csv('info.csv')  
 base_image_path = "Certificate v4.png"
 base_image = cv2.imread(base_image_path)
 
