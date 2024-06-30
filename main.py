@@ -47,11 +47,11 @@ thickness = 2
 font = cv2.FONT_HERSHEY_TRIPLEX
 
 for index, row in df.iterrows():
-    name = str(row['name'])
+    name = str(row['name']).title()
     email = str(row['email'])
 
     img_to_text = base_image.copy()
-    cv2.putText(img_to_text, name, (790, 855), font, font_scale, colour, thickness)
+    cv2.putText(img_to_text, name, (100, 595), font, font_scale, colour, thickness)
 
     output_image_path = os.path.join(output_folder, f"{name}.jpg")
     cv2.imwrite(output_image_path, img_to_text)

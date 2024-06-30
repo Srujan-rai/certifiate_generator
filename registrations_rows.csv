@@ -1,0 +1,180 @@
+id,created_at,name,email,phone,college,branch,year,events
+43,2024-06-08 16:08:50.091422+00,Vaishnavi Prabhu,vaishnaviprabhu129@gmail.com,6363646805,"Sahyadri College of Engineering and Management, Mangalore",AIML,1,"[0,1,2,3,4,5,6,7,8,9]"
+44,2024-06-08 16:14:34.378985+00,Likitha R,likhithar266@gmail.com,6360892847,"Sahyadri College of Engineering and Management, Mangalore",CS,1,"[2,3,4,5,6,7,9,8]"
+45,2024-06-08 16:21:02.822913+00,A Jyothis Raphael Joseph,jyothisalukka5@gmail.com,8762824470,"Vivekananda College of Engineering & Technology, Puttur",CD,3,"[0,1,2,4,5,7,9]"
+46,2024-06-08 16:36:27.976121+00,Daksha nilesh fadthare,dakshanilesh027@gmail.com,9740429179,"Vivekananda College of Engineering & Technology, Puttur",Computer science (Data science ),3,"[0,1,2,4,5,7,9]"
+47,2024-06-08 17:02:48.325983+00,Crystal Dsouza,crystaldsouza2003@gmail.com,8317448782,"St. Joseph Engineering College, Mangalore",AIML,3,"[0,8,2,1,4,5,6,7]"
+48,2024-06-08 18:11:30.871655+00,Daksha nilesh fadthare,dakshanilesh027@gmail.com,9740429179,"Vivekananda College of Engineering & Technology, Puttur",Computer science (Data science ),3,"[0,1]"
+49,2024-06-09 05:26:41.646268+00,Muhammad Hisham,muhammadhisham305@gmail.com,9686869362,"Beary’s Institute of Technology, Mangalore (Religious Minority) (MUSLIM)",CS,3,"[9,7,6,5,4]"
+50,2024-06-09 05:49:04.802794+00,PRANEETH GANESH,gpraneeth20@gmail.com,8105270476,"Sahyadri College of Engineering and Management, Mangalore",CS,2,[2]
+51,2024-06-09 08:58:54.301989+00,Bilal Ahmed,aaryanbilal3@gmail.com,8217258139,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CSE ,3,"[0,4,9]"
+52,2024-06-09 09:01:14.051933+00,Samridhi S ,samridhi.s.1512@gmail.com,9686940205,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",IS,3,"[9,4]"
+53,2024-06-09 09:02:46.337868+00,Arun V,vatearun@gmail.com,8088303523,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[0,1,2,4,5,6,8,7]"
+54,2024-06-09 09:03:35.759536+00,Nandan P Aghera,agheranandanp172@gmail.com,8050197953,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[1,4,5,6,7,8,0,2]"
+55,2024-06-09 09:03:40.67846+00,Arun V,vatearun@gmail.com,8088303523,,CS,,"[0,1,2,4,5,6,7,8]"
+56,2024-06-09 11:06:58.758648+00,Kripa D Suvarna ,kripadsuvarna001@gmail.com,8088823687,"Sahyadri College of Engineering and Management, Mangalore",Cs (aiml),1,[2]
+57,2024-06-09 14:27:54.525747+00,Snehal Rai B,snehalraib@gmail.com,9380662749,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",IS,2,"[9,4]"
+58,2024-06-09 14:30:32.386389+00,Kahsish ,kashishshetty964@gmail.com,6360527830,,IS,,"[9,4]"
+59,2024-06-09 15:56:15.026443+00,Mahesh P K,maheshpk1098@gmail.com,8762525638,"Vivekananda College of Engineering & Technology, Puttur",AIML,2,"[2,4,5,6,7,9]"
+60,2024-06-09 17:12:18.527002+00,Pratham V Bhat,21a36.pratham@sjec.ac.in,9980658637,"St. Joseph Engineering College, Mangalore",CSE,3,"[8,7,0,1,2,4,5,6]"
+61,2024-06-09 17:20:37.672478+00,Amrutha r rao,amrutharrao874@gmail.com,8867314635,,Computer science engineering ,2,[9]
+62,2024-06-09 17:29:31.02748+00,Vyasa M Nayak,vyasamnayak@gmail.com,8618497080,"St. Joseph Engineering College, Mangalore",CSE,3,"[1,7,2]"
+63,2024-06-09 17:40:26.194713+00,ROLWIN MELRON DSOUZA,rolwind55@gmail.com,8549054984,"Nadgir Institute of Engineering and Technology, Jindal Nagar, Bangalore (2016-17)",AIML,1,[2]
+64,2024-06-09 17:42:19.445475+00,Dinesh Acharya,dineshacharya2004@gmail.com,9325928409,"N.M.A.M. Institute of Technology, Nitte",CSE ,3,"[0,1,3,4,5,6,7,8]"
+65,2024-06-09 17:43:14.73904+00,Haashid,haashid.0607@gmail.com,6360850145,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",IC,4,"[3,4,5,0,1,7,8]"
+66,2024-06-09 17:49:43.075762+00,Dinesh Acharya,dineshacharya2004@gmail.com,9325928409,"N.M.A.M. Institute of Technology, Nitte",CSE ,3,"[0,1,3,4,5,6,7,8]"
+67,2024-06-09 17:51:33.646459+00,Moidin Hishan,moidinhishan@gmail.com,9353056437,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,4,5,6,3,1,7,9]"
+68,2024-06-09 17:52:38.952135+00,Hishan,moidinhishan03@gmail.com,9353056437,,CS,,"[0,1,3,5,4,6,7,9]"
+69,2024-06-09 18:10:17.673179+00,Salman Abdul Rehman ,salmanar066@gmail.com,6360765978,"P.A. College of Engineering, Kairangal, Bantwala",Computer science ,3,"[1,3,4,5,6,7,8,0]"
+70,2024-06-10 00:02:19.344041+00,Raksha K,rakshakulamarva@gmail.com,6282075908,"St. Joseph Engineering College, Mangalore",CS,3,"[3,1]"
+71,2024-06-10 03:29:09.462407+00,Mohammed Raheeb,mraheeb34@gmail.com,7736374690,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",CS,3,"[3,8]"
+72,2024-06-10 03:36:30.524446+00,Mohammed Sinan,sinan.mohd593@gmail.com,8590514134,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[7,6,5,4,8,1,0,2]"
+73,2024-06-10 04:25:51.777132+00,Mohammed Junaid,junni6161@gmail.com,9148400241,"P.A. College of Engineering, Kairangal, Bantwala",Cs,3,"[0,1,4,5,6,7,8,3]"
+74,2024-06-10 04:55:43.566106+00,Akhilesj,akhileshsm11@gmail.com,9353416295,"Sahyadri College of Engineering and Management, Mangalore",AI/Ml,2,"[0,1,2,4,5,6,7,8]"
+75,2024-06-10 05:05:17.152568+00,Ashika Shettigar ,ashikashettigar18@gmail.com,9071070553,"Sahyadri College of Engineering and Management, Mangalore",Robotics and automation,3,[7]
+76,2024-06-10 05:17:22.346481+00,Shahid ,shaahshahid9050@gmail.com,8762417858,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,[0]
+77,2024-06-10 05:25:35.428088+00,Aniruddha Wagle K,anirudha.ra21@sahyadri.edu.in,8660555303,"Sahyadri College of Engineering and Management, Mangalore",RA,3,"[1,9]"
+78,2024-06-10 05:45:15.00762+00,Bhavish Rai B,bhavish.ra21@sahyadri.edu.in,9591002456,"Sahyadri College of Engineering and Management, Mangalore",Robotics and Automation,3,"[1,9]"
+79,2024-06-10 06:04:30.945045+00,Ranville Christopher Carlo ,21c46.ranville@sjec.ac.in,7353637054,"St. Joseph Engineering College, Mangalore",AIML,1,"[2,9,1]"
+80,2024-06-10 06:04:53.056188+00,Preetham ,21j33.preetham@sjec.ac.in,8618524411,"St. Joseph Engineering College, Mangalore",aiml,3,"[1,2,9]"
+81,2024-06-10 06:06:02.494116+00,Vijeth Fernandes ,vijufernandes63@gmail.com,8147044720,"St. Joseph Engineering College, Mangalore",AIML,3,"[9,2,1]"
+82,2024-06-10 06:08:37.91732+00,Mohammed Nihal,mh.nihal2002@gmail.com,8660268828,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[1,2,4,7,8,0,5,6]"
+83,2024-06-10 06:11:38.827473+00,Adarsh ,adarshaithal370@gmail.com,9380244270,"St. Joseph Engineering College, Mangalore",AIML,3,"[2,1,9]"
+84,2024-06-10 06:12:14.40976+00,Ada,adarshaithal370@gmail.com,9380244270,,AIML,,"[1,2,9]"
+85,2024-06-10 06:16:50.735354+00,Ananya,17anushetty@gmail.com,8073937397,"St. Joseph Engineering College, Mangalore",AIML ,3,"[1,2,9]"
+86,2024-06-10 06:17:30.579336+00,Vamshikha.V.poojary,vamshikha000@gmail.com,7975355940,"St. Joseph Engineering College, Mangalore",AIML,3,"[1,2,9]"
+87,2024-06-10 06:19:25.555568+00,Lithin Ullal,lithin.ullal@gmail.com,8123713259,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[9,4,7]"
+88,2024-06-10 06:21:43.659313+00,Surabhi S Shetty ,surabhishetty27@gmail.com,8792389533,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[9,7,4]"
+89,2024-06-10 06:23:02.83657+00,Sujan A S ,assujan8@gmail.com,9353694309,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[9,7,4]"
+90,2024-06-10 07:15:54.500903+00,Ayman Mohammed Abbas,aymanhello3@gmail.com,8217233968,"Sahyadri College of Engineering and Management, Mangalore",CS,3,"[2,7]"
+91,2024-06-10 08:18:30.584909+00,Shashank N Devadiga,shashankdevadiga2003@gmail.com,7892941965,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AI-ML,3,"[0,1,2,4,5,6,7,8]"
+93,2024-06-10 08:22:36.114925+00,Zeeshaan ,zeeshaan356@gmail.com,9845268124,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AI-ML,3,"[0,1,2,4,5,6,7,8]"
+94,2024-06-10 08:26:04.515321+00,Vighnesh R,vighneshrg11@gmail.com,7411299487,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",CS,3,"[0,1,2,4,5,6,8,7]"
+96,2024-06-10 08:34:53.731431+00,Prateek Prakash Kini,prateekpkini2005@gmail.com,8217785509,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,1,"[2,9]"
+97,2024-06-10 08:40:49.87284+00,Shayam shetty,shayamshetty290@gmail.com,8217745418,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",Ai and Ml,3,"[0,1,2,4,5,6,7,8]"
+98,2024-06-10 08:42:47.278387+00,Prathiksha A,aprathiksha36@gmail.com,8495024841,"Sahyadri College of Engineering and Management, Mangalore",Data science,3,"[0,1,2,4,5,6,7,8]"
+100,2024-06-10 08:56:40.489198+00,Adarsha SP,adarshasps@gmail.com,8618970239,"Vivekananda College of Engineering & Technology, Puttur",Data Science,3,"[0,1,2]"
+101,2024-06-10 10:20:54.57659+00,Swathi Pai,swathitheprincess1@gmail.com,9154495854,"Sahyadri College of Engineering and Management, Mangalore",CS,2,"[1,2,0]"
+102,2024-06-10 10:20:55.354368+00,Sharanya S Parol,sharanyasparol@gmail.com,7975895419,"Sahyadri College of Engineering and Management, Mangalore",CS,2,"[1,2,0]"
+103,2024-06-10 10:44:58.103705+00,Snehit Krishna Shastry G,snehtkrishna@gmail.com,9901549753,"Srinivas Institute of Technology, Mangalore",CS,3,"[7,6,8]"
+104,2024-06-10 10:45:05.652346+00,Geddada Nethranand,nethranand12345@gmail.com,9141258312,"Srinivas Institute of Technology, Mangalore",Computer Science,3,"[8,7,6]"
+105,2024-06-10 13:21:44.881751+00,Dhanya D Shetty,shettydhanya361@gmail.com,7204575961,"Sahyadri College of Engineering and Management, Mangalore",Computer science & engineering,2,"[0,1,2,4,6,5,7,8]"
+106,2024-06-10 13:31:13.077039+00,Rohith D Poojary,poojaryrohith77@gmail.com,6362619232,"St. Joseph Engineering College, Mangalore",CS,1,[4]
+107,2024-06-10 13:38:44.097834+00,Sameeksha M P,sameekshampg@gmail.com,7899692388,"Sahyadri College of Engineering and Management, Mangalore",Computer Science & Engineering,2,"[0,9,6,5]"
+108,2024-06-10 15:08:14.584236+00,Yogesh Shivanand Patgar,yogeshpatgar03@gmail.com,9019068738,"Sahyadri College of Engineering and Management, Mangalore",Information science & engineering,3,"[0,2]"
+109,2024-06-10 16:00:11.629019+00,Shravan N Shetty,shravannshetty0@gmail.com,7349523119,"Sahyadri College of Engineering and Management, Mangalore",EC,3,"[1,9]"
+110,2024-06-11 04:06:19.659471+00,P Vidhath,vidhath.cs22@sahyadri.edu.in,9481025937,"Sahyadri College of Engineering and Management, Mangalore",Computer Science & Engineering,2,"[0,1,2]"
+112,2024-06-11 04:54:45.97043+00,Vishesh Hadimani,visheshadimani@gmail.com,7204579754,"Sahyadri College of Engineering and Management, Mangalore",Artificial Intelligence & Data Science,3,"[1,4,5,7,9,3]"
+113,2024-06-11 05:02:28.085536+00,Aditya SN,adityasn2003@gmail.com,7619469666,"Sahyadri College of Engineering and Management, Mangalore",CS,3,"[0,1,2,4,5,6,7,8]"
+114,2024-06-11 05:06:30.071732+00,J S Ninad ,ninadshetty2003@gmail.com,8880738765,"Sahyadri College of Engineering and Management, Mangalore",CS,4,[2]
+115,2024-06-11 05:40:20.695431+00,Rashad Abdul Razak,rashad.rar37@gmail.com,8861597661,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,1]"
+116,2024-06-11 05:41:02.266076+00,Nazeef Sarafuddin Abdulla ,Nazeefsarafuddin@gmail.com,6663700533,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,1]"
+117,2024-06-11 07:46:02.867141+00,Vinayak Gopakumar,vinayakgopakumar36@gmail.com,7025197218,"Sahyadri College of Engineering and Management, Mangalore",CSE(AI&ML),3,"[0,2]"
+118,2024-06-11 08:12:45.818777+00,Harshitha,harshiipoojary@gmail.com,9353885649,"A J Institute Of Engineering And Technology, Boloor Village, Mangalore (2016-17)",Cs,2,[0]
+120,2024-06-11 08:28:04.36694+00,vijay,vijaybirwa56@gmail.com,9019950831,"Sahyadri College of Engineering and Management, Mangalore",EC,3,"[1,9]"
+121,2024-06-11 08:29:26.759529+00,Charan,charanganiga17@gmail.com,8050814775,"Sahyadri College of Engineering and Management, Mangalore",ECE,3,"[1,9]"
+122,2024-06-11 08:29:48.046347+00,Mukasshaf Ahmed,mukashafahmed4@gmail.com,7892528033,"Sahyadri College of Engineering and Management, Mangalore",IS,1,"[0,3,8,6]"
+123,2024-06-11 10:19:29.316634+00,Ananya G Devadiga,ananyagdev30@gmail.com,8762525767,"Sahyadri College of Engineering and Management, Mangalore",CS,1,[2]
+124,2024-06-11 10:22:30.975372+00,Rashad Abdul Razak,rashad.rar37@gmail.com,8861597661,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,1]"
+125,2024-06-11 12:08:22.422699+00,Swathi Sudhakar Devadiga,swathidevadiga.cs22@sahyadri.edu.in,9663915412,"Sahyadri College of Engineering and Management, Mangalore",CSE,3,[2]
+126,2024-06-11 12:13:30.843821+00,Ashay Shetty,ashayshetty10@gmail.com,9743254942,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[0,1,4,5,6,7,9,3]"
+128,2024-06-11 15:29:56.612015+00,Shravankumar ,shravan.ah6@gmail.com,6363020199,"Sahyadri College of Engineering and Management, Mangalore",IS,1,[2]
+129,2024-06-11 16:43:07.727344+00,Anju krishna ,anjukrishna990@gmail.com,9141082990,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Aiml,3,[0]
+130,2024-06-12 03:30:25.636902+00,Manish,manishmaniyadhav@gmail.com,8139817262,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[0,1]"
+131,2024-06-12 04:23:43.039551+00,Raghavendra ,raghukshetty09@gmail.com,9731595915,"ACS College of Engineering, Bangalore",Mca,3,[2]
+132,2024-06-12 04:24:51.493081+00,Raghavendra ,raghukshetty09@gmail.com,9731595915,,Mca,,[2]
+133,2024-06-12 04:39:33.630212+00,Shobhitha Bhat,shobhitha.cs22@sahyadri.edu.in,9481822490,"Sahyadri College of Engineering and Management, Mangalore",CS,2,[1]
+134,2024-06-12 04:47:01.037278+00,Aditi S Naik,aditi.cs22@sahyadri.edu,6360531106,"Sahyadri College of Engineering and Management, Mangalore",CS,2,[1]
+135,2024-06-12 05:14:08.48144+00,Alen Joy,alen.id21@sahyadri.edu.in,8714468146,"Sahyadri College of Engineering and Management, Mangalore",CSE(AIML),3,"[2,1,0]"
+137,2024-06-12 05:25:13.578598+00,Lionel Pinto,21i11.lionel@sjec.ac.in,9930210834,"St. Joseph Engineering College, Mangalore",Computer Science and Engineering (CSE) ,3,"[0,1,2,4,5,6,7,8]"
+138,2024-06-12 06:38:07.813526+00,Manish,manishmaniyadhav@gmail.com,8139817262,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[0,1]"
+140,2024-06-12 07:40:41.969501+00,Pranaw Kumar,pranawkk0@gmail.com,9872459599,"Adithya Academy of Architecture and Design, Yalahanka, Bangalore (2015-16)",CS,3,"[0,1,2,4,5,6,7,8]"
+141,2024-06-12 07:50:20.154952+00,Nilesh,nileshshetty2001@gmail.com,9110220375,"Srinivas Institute of Technology, Mangalore",CSE,3,"[0,1,4,5,6,7,3]"
+142,2024-06-12 08:07:30.815257+00,Ramya Kunder,saggitarian3@gmail.com,7204308985,"Vijaya Vitala Institute Of Technology, Bangalore",Computer Science Masters,5,"[5,4,0,1,8]"
+143,2024-06-12 08:12:21.216422+00,SANDHYA MANJUNATH NAIK,sandhyanaik3249@gmail.com,8431556194,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",CS,3,"[0,1,2,4,5,6,7,8]"
+144,2024-06-12 08:14:00.27746+00,Sahana,sahanapoojary2003@gmail.com,9380599692,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",Cs,3,"[0,1,2,4,5,6,7,8]"
+145,2024-06-12 08:15:46.108747+00,Pallavi,pallavishettigar03@gmail.com,9742887997,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",Computer Science and Engineering ,4,"[0,1,2]"
+147,2024-06-12 08:19:34.654503+00,Tejaswini M,teju13.gandgatkar@gmail.com,7676082627,,CSe,,"[0,1,3,4,5,6,7,8]"
+148,2024-06-12 08:25:51.794162+00,GK.Jaikiran,gkjaikiran510@gmail.com,7090064478,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,[8]
+149,2024-06-12 08:26:03.906836+00,Vishika Shetty,vishikarshetty123@gmail.com,9845745022,"Srinivas Institute of Technology, Mangalore",CSE,3,"[0,1,3,4,5,6,7,8]"
+150,2024-06-12 10:28:27.894605+00,Himanshu Saluja ,21a14.himanshu@sjec.ac.in,8971162036,"St. Joseph Engineering College, Mangalore",Mechanical Engineering ,3,"[5,9,1,0]"
+151,2024-06-12 11:13:07.357878+00,Tejaswini M,teju13.gangatkar@gmail.com,7676082627,"Srinivas Institute of Technology, Mangalore",CS,3,"[0,1,2,4,5,6,7,8]"
+152,2024-06-12 13:09:07.352664+00,Samridhi S,samridhi.s.1512@gmail.com,9686940205,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",IS,3,"[0,1,3]"
+153,2024-06-12 13:34:06.884314+00,MANISH,manishmh903@gmail.com,9964756673,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Computer science engineering ,4,[9]
+154,2024-06-12 14:48:24.023675+00,Karthik Vishwajeeth S,vishwajeeth2014@gmail.com,9844293604,"Srinivas Institute of Technology, Mangalore",AIML,3,"[4,5,6,7,8,3,1,0]"
+155,2024-06-12 14:52:44.585999+00,Amshith Kharvi,amshuakharvi66@gmail.com,9380584073,"Srinivas Institute of Technology, Mangalore",AIML,3,"[0,5]"
+156,2024-06-12 14:55:54.196371+00,Bilal Ahmed,aaryanbilal3@gmail.com,8217258139,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CSE,3,"[3,1,0,4,9]"
+157,2024-06-12 15:36:17.321928+00,Shreeyaa Rai ,shreeyaa84@gmail.com,9446965270,"Srinivas Institute of Technology, Mangalore",Cs,3,[3]
+158,2024-06-12 15:37:17.214292+00,Shreenidhi N,shreenidhin52004@gmail.com,8618322767,"Srinivas Institute of Technology, Mangalore",CSE,3,[3]
+159,2024-06-12 15:57:09.542134+00,Ayman Mohammed Abbas,aymanabbas314@gmail.com,8217233968,"Sahyadri College of Engineering and Management, Mangalore",CS,3,"[0,1,2,5,6,7,8]"
+160,2024-06-12 16:09:56.297311+00,Deetya S Salian,deetyassalian244@gmail.com,7349428317,"N.M.A.M. Institute of Technology, Nitte",Cs,3,[8]
+161,2024-06-12 16:12:17.607788+00,Abhijeeth Chandra,imabhijeethchandra@gmail.com,6282209468,"Srinivas Institute of Technology, Mangalore",Artificial Intelligence and Machine Learning,3,"[0,1,2,5,6,7,8,4]"
+162,2024-06-12 18:09:06.767044+00,Prithvi D K,prithvidk504@gmail.com,9449134549,"Srinivas Institute of Technology, Mangalore",CSE,3,"[0,1,2,6,7,4,5,8]"
+164,2024-06-13 02:44:20.866331+00,Shaaz ibraheem,shaazibraheem7@gmail.com,9972653844,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,1,4,5,6,7,2,8]"
+165,2024-06-13 02:47:48.621741+00,Manish,manishmaniyadhav@gmail.com,8139817262,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[0,1,2]"
+166,2024-06-13 03:42:43.201187+00,Tushar M Shetty ,tusharmshetty49@gmail.com,9900889334,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[0,1,3,4,5,6,7,9]"
+167,2024-06-13 03:46:13.662751+00,Swasthik S Adyanthaya ,swasthikadyanthaya@gmail.com,6362275973,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[0,1,3,9,7,6,4,5]"
+168,2024-06-13 03:50:15.037038+00,Amshith Kharvi,amshuakharvi66@gmail.com,9380584073,"Srinivas Institute of Technology, Mangalore",AIML,3,"[0,1,2,4,5,6,7,8]"
+169,2024-06-13 03:59:22.438+00,Chirag Girish,chiragirish2003@gmail.com,6366075986,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[0,1,3,4,5]"
+171,2024-06-13 04:03:10.22824+00,Snehal Rai B,snehalraib@gmail.com,9380662749,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",IS,2,"[0,3,1]"
+172,2024-06-13 04:03:39.818438+00,Kahsish ,kashishshetty964@gmail.com,6360527830,,IS,,"[0,1,3]"
+173,2024-06-13 04:41:33.222641+00,Amrith Naik,nnm22ad006@nmamit.in,7676437857,"N.M.A.M. Institute of Technology, Nitte",AI&DS,2,[7]
+174,2024-06-13 04:43:53.098943+00,Varshini S B ,varshinisb29@gmail.com,6362606113,"Srinivas Institute of Technology, Mangalore",Cs,3,[3]
+175,2024-06-13 07:07:34.465925+00,Smrathi Mahabaleshwar Naik ,smrathinaik07@gmail.com,6364273629,"Srinivas Institute of Technology, Mangalore",CS,3,"[0,1,2,4,5,6,7,8]"
+176,2024-06-13 07:07:49.188279+00,MAHAMMAD ZIYAD,mahammadziyad251@gmail.com,6364617730,"Sahyadri College of Engineering and Management, Mangalore",CS,1,"[0,3,6,8]"
+177,2024-06-13 07:08:26.049843+00,Smrathi Mahabaleshwar Naik ,smrathinaik07@gmail.com,6364273629,,CS,,"[0,1,2,4,5,6,7,8]"
+178,2024-06-13 07:15:52.792711+00,Ranjita Mahadev Patgar,ranjitapatgar86@gmail.com,9886939026,"Srinivas Institute of Technology, Mangalore",Computer science ,3,"[1,0]"
+180,2024-06-13 07:20:05.997145+00,Sujay ,sujaybhandari605@gmail.com,9663812661,"Srinivas Institute of Technology, Mangalore",CS,3,"[0,1,2,4,5,7,6,8]"
+181,2024-06-13 07:25:18.67531+00,Thanish p shetty,thanishpshetty26@gmail.com,8089545873,"Srinivas Institute of Technology, Mangalore",CS,3,"[0,1,2,4,5,8,7]"
+182,2024-06-13 07:26:18.466016+00,Nishant Moolya ,moolya.cs22@sahyadri.edu.in,1586166494,"Sahyadri College of Engineering and Management, Mangalore",CS,2,"[1,2,5,7,6,9,4,0]"
+183,2024-06-13 07:38:38.396897+00,Disha Rao,disharaod@gmail.com,7026658914,"Srinivas Institute of Technology, Mangalore",Cs,3,"[0,1,2,4,6,5,7,8]"
+184,2024-06-13 07:41:03.964866+00,Snehit Krishna Shastry G,snehtkrishna@gmail.com,9901549753,"Srinivas Institute of Technology, Mangalore",Cs,3,"[0,1,2,4,5,6,7,8]"
+185,2024-06-13 07:42:17.362706+00,Geddada Nethranand ,nethranand12345@gmail.com,9141258312,"Srinivas Institute of Technology, Mangalore",CS,3,"[0,1,2,4,5,6,7,8]"
+186,2024-06-13 08:13:07.926847+00,Anirudh S,anirudhsudheer@gmail.com,9539102851,"Srinivas Institute of Technology, Mangalore",AIML,2,"[4,5,6,7,9]"
+187,2024-06-13 08:40:21.58882+00,Zaaya,lkzaaya138@gmail.com,9154312478,"K.S. Institute of Technology, Raghuvanahalli, Kanakapura Main Raod, Bangalore",CSE ,2,"[0,1,2,5,6,7,9,4]"
+189,2024-06-13 09:48:38.798844+00,Chaithrashree C S,chaithrashreecs.bhat@gmail.com,9449209634,"Srinivas Institute of Technology, Mangalore",CS,3,"[1,0,2]"
+190,2024-06-13 10:55:18.257267+00,Praharsh T,ppraharsht@gmail.com,7483783076,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Computer Science & Engineering,3,[2]
+191,2024-06-13 13:10:32.005012+00,Abhay B Prabhu,abhayprabhu1234@gmail.com,7899606078,"Vivekananda College of Engineering & Technology, Puttur",Data Science ,3,"[0,1,2]"
+192,2024-06-13 13:13:51.358454+00,Shaan N T,shaannt20@gmail.com,8217822613,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CS,3,"[0,1,3]"
+193,2024-06-13 13:15:23.879014+00,Lithin,lithin.ullal@gmail.com,8123713259,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,"[0,1,2]"
+194,2024-06-13 13:51:12.367111+00,Abhay B Prabhu,abhayprabhu1234@gmail.com,7899606078,"Vivekananda College of Engineering & Technology, Puttur",Data science ,3,"[0,1,2]"
+195,2024-06-13 13:52:53.518474+00,Shreeyaa Rai ,shreeyaa84@gmail.com,9446965270,"Srinivas Institute of Technology, Mangalore",Cs,3,[1]
+196,2024-06-13 13:54:55.850597+00,Surabhi S Shetty ,surabhishetty27@gmail.com,8792389533,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,4,"[0,1]"
+197,2024-06-13 13:56:41.775963+00,Rayan Anish Dsouza ,rayandsouza09@gmail.com,8197176738,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Aiml,3,"[0,1,3]"
+198,2024-06-13 14:34:17.716071+00,Muhammad Haashim ,haashimmuhammad7@gmail.com,6361364554,"Beary’s Institute of Technology, Mangalore (Religious Minority) (MUSLIM)",CS,2,"[0,1,3,4,5,6,7,8]"
+199,2024-06-13 14:53:29.37347+00,Shreenidhi N,shreenidhin52004@gmail.com,8618322767,"Srinivas Institute of Technology, Mangalore",CSE,3,[1]
+200,2024-06-13 14:54:44.235467+00,Akshaykumar ,aksh9881@gmail.com,8073476691,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",CS,2,"[4,5,7,9]"
+201,2024-06-13 15:13:05.733074+00,Mohammad Thameem Raz ,thameemraz829@gmail.com,7411325830,"P.A. College of Engineering, Kairangal, Bantwala Tq. (Religious Minority) (MUSLIM)",CS,3,"[3,5,6,4,1,0,7,8]"
+203,2024-06-13 15:14:34.637584+00,Pavithra V,pavitam.v@gmail.com,6380987796,"Vivekananda College of Engineering & Technology, Puttur",CS,3,"[4,5,6,7,8]"
+204,2024-06-13 15:30:14.84118+00,Tharini S Gowda,tharinisgowda2@gmail.com,8095100523,"Vivekananda College of Engineering & Technology, Puttur",CS,2,"[4,5,8,6,7]"
+205,2024-06-13 15:55:25.289625+00,Varshini S B ,varshinisb29@gmail.com,6362606113,"Srinivas Institute of Technology, Mangalore",Cs,3,"[1,3]"
+206,2024-06-13 16:18:51.487067+00,Shreekar Shenoy,shreekarshenoy@gmail.com,7483249068,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CS,3,[3]
+207,2024-06-13 16:19:36.013957+00,Sakshath Rai K,sakshathrai2004@gmail.com,8431006843,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CSE,3,[3]
+208,2024-06-13 16:23:37.947436+00,Rinisha S Prabhu,rinishasprabhu@gmail.com,8296475721,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CS,4,[3]
+209,2024-06-13 16:25:55.319787+00,Praharsh T,ppraharsht@gmail.com,7483783076,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",CS,3,[3]
+210,2024-06-13 16:46:34.962519+00,Vaibhav Ramachandra Kottari,Kottarivaibhav@gmail.com,8861481967,"St. Joseph Engineering College, Mangalore",Computer science & engineering,3,"[4,6,5]"
+211,2024-06-13 17:28:11.121209+00,Sujan A S,assujan8@gmail.com,9353694309,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Cs,3,"[0,1]"
+212,2024-06-13 18:22:27.923276+00,Crystal Dsouza,crystaldsouza2003@gmail.com,8317448782,"St. Joseph Engineering College, Mangalore",AIML,3,"[0,9,6,5,3,1]"
+214,2024-06-14 01:45:39.339689+00,Shreya K R,shreyakr7445@gmail.com,8317482107,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",Computer Science & Engineering,3,[3]
+215,2024-06-14 02:44:15.613217+00,Crystal Dsouza,crystaldsouza2003@gmail.com,8317448782,"St. Joseph Engineering College, Mangalore",AIML,3,"[1,3,9]"
+216,2024-06-14 03:04:26.496056+00,Nazeef Sarafuddin Abdulla ,Nazeefsarafuddin@gmail.com,6363700533,"P.A. College of Engineering, Kairangal, Bantwala",CS,3,"[0,1]"
+217,2024-06-14 04:11:46.584645+00,Anoop sadananda prabhu k,Anoopsprabhu12@gmail.com,9400472441,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",aiml,3,[3]
+218,2024-06-14 05:02:20.523259+00,Gtt,gfg@gmail.com,8553636959,"Adhichunchanagiri Institute of Technology, Chikkamagalur",Hg,1,[7]
+219,2024-06-14 05:07:11.214101+00,Babith poojary,babithpoojari@gmail.com,8971206807,"Sahyadri College of Engineering and Management, Mangalore",Computer science & engineering,3,[3]
+220,2024-06-14 05:08:41.022301+00,Kaushik K U ,kaushikuacharya@gmail.com,8590690595,"Sahyadri College of Engineering and Management, Mangalore",CS,4,[3]
+221,2024-06-14 06:50:43.74179+00,Reenal Mishal Martis ,reenal.21ai038@sode-edu.in,7026354574,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",Aiml,3,"[4,5,6,7,9]"
+222,2024-06-14 06:50:44.815451+00,Rakshitha,rakshitha.21ai034@sode-edu.in,8792744069,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AIML,3,"[4,5,6,7,8]"
+223,2024-06-14 06:50:45.001376+00,Ramyashree ,ramyashree.21ai035@sode-edu.in,9740836196,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AI-Ml,4,"[5,6,9,4,7]"
+224,2024-06-14 06:51:07.985306+00,Shetty Anusha Chandrashekar,Shettyanusha309@gmail.com,6360482019,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AI-ML,3,"[4,5,6,7,8]"
+225,2024-06-14 06:51:37.511378+00,Rakshitha,rakshitha.21ai034@sode-edu.in,8792744069,,AIML,,"[4,5,6,7,8]"
+226,2024-06-14 06:51:41.781889+00,Shetty Anusha Chandrashekar,Shettyanusha309@gmail.com,6360482019,,AI-ML,,"[5,4,6,7,8]"
+227,2024-06-14 11:40:02.7218+00,A Akshaya,akshaya62004@gmail.com,6363917955,"Sahyadri College of Engineering and Management, Mangalore",Computer science & engineering,2,"[6,7,9]"
+228,2024-06-14 12:34:25.148147+00,Rahul Shettigar ,rahulshettigarbusiness@gmail.com,9008259858,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",Artificial intelligence & machine learning,1,"[0,1,3,4,5,6,7,9]"
+229,2024-06-14 12:37:01.521399+00,SHIVAM,shettyshivam209@gmail.com,8497885791,"Shri Madhwa Vadiraja Institute of Technology & Management, Bantakl",AI & ML,1,"[9,7,6,5,0,1]"
+230,2024-06-14 12:40:26.16043+00,SHIVAM,shettyshivam209@gmail.com,8497885791,,AI,,"[0,1,9,7,6,5,3]"
+231,2024-06-14 13:03:45.299763+00,Vachan Kumar,vachank16@gmail.com,9980690870,"Yenepoya Institute Of Technology (Formerly Dr. MVSIT), Moodabidre, Mangalore (Tq)",AIML,3,"[4,5,6,7,9]"
+232,2024-06-14 13:23:13.546334+00,DEEKSHITH ,deekshithpoojary122d@gmail.com,7022086594,"Yenepoya Institute Of Technology (Formerly Dr. MVSIT), Moodabidre, Mangalore (Tq)",cs,3,"[9,7,6,5,4]"
+233,2024-06-14 13:34:44.494548+00,M RAHUL BHAT ,Rahulbhat5122@gmail.com,9019721622,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,[9]
+234,2024-06-14 14:19:48.554641+00,Deeksha Divakar ,deekshu25003@gmail.com,9945184300,"Canara Engg College, Banjara, Bantawal (Religious Minority) (KONKANI)",AIML,3,[9]
+235,2024-06-14 16:47:52.05646+00,Shetty Pranam ,pranamshetty533@gmail.com,8431250600,"Yenepoya Institute Of Technology (Formerly Dr. MVSIT), Moodabidre, Mangalore (Tq)",CS,3,"[4,5,6,7,9]"
+238,2024-06-14 16:52:20.037426+00,Sindhu Mathapati,sindhumathapati9@gmail.com,6366669719,"K L E S`s K L E College of Engineering and Technology, Chikkodi, Belgaum Dist.",CS,5,[3]
