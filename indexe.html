@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Certificate Generator</h1>
+    <form id="certificateForm">
+        <div>
+            <label for="certificate">Upload Certificate Image (JPEG/PNG):</label>
+            <input type="file" id="certificate" accept="image/*" required>
+        </div>
+        <div>
+            <label for="csvFile">Upload CSV with 'name' and 'email' columns:</label>
+            <input type="file" id="csvFile" accept=".csv" required>
+        </div>
+        <div id="imagePreviewContainer">
+            <canvas id="certificateCanvas"></canvas>
+        </div>
+        <div>
+            <label for="xCoord">X Coordinate:</label>
+            <input type="number" id="xCoord" required>
+            <label for="yCoord">Y Coordinate:</label>
+            <input type="number" id="yCoord" required>
+        </div>
+        <div>
+            <label for="fontSelect">Select Font:</label>
+            <select id="fontSelect">
+                <option value="FONT_HERSHEY_SIMPLEX">Simplex</option>
+                <option value="FONT_HERSHEY_COMPLEX">Complex</option>
+                <option value="FONT_HERSHEY_TRIPLEX">Triplex</option>
+                <option value="FONT_HERSHEY_SCRIPT_SIMPLEX">Script Simplex</option>
+            </select>
+        </div>
+        <div>
+            <label for="email">Sender Email:</label>
+            <input type="email" id="email" required>
+            <label for="password">Password:</label>
+            <input type="password" id="password" required>
+        </div>
+        <button type="submit">Generate and Send Certificates</button>
+    </form>
+
+    <script src="app.js"></script>
+</body>
+</html>
